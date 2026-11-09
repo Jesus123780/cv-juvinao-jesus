@@ -4,7 +4,9 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "node src/build.mjs"
+    "build": "node src/build.mjs",
+    "full": "node src/build-full.mjs"
+
   },
   "engines": {
     "node": ">=20.11"
