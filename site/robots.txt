@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /cv/
+Sitemap: https://juvinaodev.netlify.app/sitemap.xml
